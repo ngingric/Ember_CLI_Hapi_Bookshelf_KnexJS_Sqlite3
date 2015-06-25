@@ -1,0 +1,1 @@
+# Ember_CLI_Hapi_Bookshelf_KnexJS_Sqlite3
